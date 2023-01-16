@@ -1,11 +1,3 @@
-
-``` 
-Notes to Self
-- Installing VScode
-- Remotely Connecting
-- Trying Some Commands 
-```
-
 # Installing VScode 
 
 Navigate to [vscode website]( https://code.visualstudio.com/) and follow the download instructions. Once you install VScode you should have a tab similar to this 
