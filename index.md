@@ -41,3 +41,7 @@ Type ``` yes ``` into the terminal to connect to the Virtual Machine. After you 
 Congratulations You have finally accessed your virtual machine instance. Play around with some bash commands and get comfortable in the terminal. You will be using it alot in the future. 0.o
 
 ![command_ssh](command_ssh.png)
+
+Here I ran the ```ls -a ``` command which lists all directories, including hidden ones. The second command I ran was ```cat .bashrc``` which outputs the bashrc file of the virtual machine. If you want to learn more about these commands, click this [link](https://www.educative.io/blog/bash-shell-command-cheat-sheet). 
+
+Happy coding!
