@@ -1,5 +1,5 @@
 # Lab Report 5 (Lab Report 3 Redo)
-In lab 3, I explored the ``find`` command. This time I will be exploring the ``grep`` comman. 
+In lab 3, I explored the ``find`` command. This time I will be exploring the ``grep`` command. 
 
 ## Option 1: -r (recursive search)
 This option allows you to search for patterns recursively in all subdirectories of a directory. This can be useful when you have a large directory tree with many subdirectories.
